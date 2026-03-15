@@ -25,14 +25,14 @@ Messaging Generation
 ↓  
 Image Prompt Generation  
 ↓  
-Image Model (Stable Diffusion / Leonardo AI)  
+Image Model Playground AI  
 ↓  
 Generated Creative Output
 
 ## Tools Used
 
 - LLM: GPT / Gemini for prompt structuring
-- Image Model: Stable Diffusion (Leonardo AI)
+- Image Model: Playground AI
 - Documentation: Markdown + GitHub
 
 ## Prompt Architecture
