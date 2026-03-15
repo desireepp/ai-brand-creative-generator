@@ -1,1 +1,13 @@
+You are an AI creative strategist.
 
+Analyse the following brand description and extract:
+
+1. tone of voice
+2. visual identity
+3. colour palette
+4. key emotional themes
+
+Brand description:
+Midnight Coffee Co. is a premium coffee brand with a mysterious and elegant aesthetic. The brand uses black and gold colours and emphasises luxury and atmosphere.
+
+Output the results as structured bullet points.
